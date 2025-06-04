@@ -23,7 +23,7 @@ Projekt korzysta z GitHub Actions do automatyzacji procesu budowania aplikacji
 Aplikacja jest dostępna pod publicznym adresem:  
 **[Link do aplikacji na Azure](ecommerce-api-apgbb2erbbbpexd2.polandcentral-01.azurewebsites.net)**  
 Możesz korzystać z aplikacji, wykonując zapytania HTTP do odpowiednich **endpointów**. Lista dostępnych endpointów jest udostępniona w dokumentacji **Swagger**, dostępnej pod adresem:  
-**[Swagger UI](ecommerce-api-apgbb2erbbbpexd2.polandcentral-01.azurewebsites.net/swagger](https://ecommerce-api-apgbb2erbbbpexd2.polandcentral-01.azurewebsites.net/swagger))**.
+**[Swagger UI]([ecommerce-api-apgbb2erbbbpexd2.polandcentral-01.azurewebsites.net/swagger](https://ecommerce-api-apgbb2erbbbpexd2.polandcentral-01.azurewebsites.net/swagger)](https://ecommerce-api-apgbb2erbbbpexd2.polandcentral-01.azurewebsites.net/swagger/index.html))**.
 
 ## Usługi Azure wykorzystane w projekcie
 
